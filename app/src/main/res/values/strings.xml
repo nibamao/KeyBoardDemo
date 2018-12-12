@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ModuleTest</string>
+    <string name="common_send">发送</string>
+</resources>
